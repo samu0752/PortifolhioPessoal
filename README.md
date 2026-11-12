@@ -4,12 +4,12 @@ Site pessoal com projetos, conhecimentos, experiência profissional, formação 
 
 ## Acessar
 
-- **Site publicado:** <https://samu0752.github.io/portifolhiopessoal/>
+- **Site publicado:** <https://samu0752.github.io/PortifolhioPessoal/>
 - **Currículo:** disponível no próprio site e no arquivo [curriculo-samuel-sampaio-publico.pdf](curriculo-samuel-sampaio-publico.pdf).
 
 ## Executar localmente
 
-Como o site é estático, basta abrir index.html no navegador. Também é possível servir a pasta com Python usando o comando: python -m http.server 8000. Depois, acesse <http://localhost:8000>.
+Como o site é estático, basta abrir index.html no navegador. Também é possível servir a pasta com Python usando o comando `python -m http.server 8000`. Depois, acesse <http://localhost:8000>.
 
 ## Arquivos
 
@@ -20,8 +20,8 @@ Como o site é estático, basta abrir index.html no navegador. Também é possí
 
 ## Publicação
 
-O repositório está configurado para publicação pelo GitHub Pages a partir da branch main, na raiz. Após enviar alterações para essa branch, o Pages publica a versão atualizada automaticamente.
+O repositório está configurado para publicação pelo GitHub Pages a partir da branch `main`, na raiz. Após enviar alterações para essa branch, o Pages publica a versão atualizada automaticamente.
 
 ## Atualizar o portfólio
 
-Edite as seções correspondentes em index.html para atualizar projetos, conhecimentos, experiência, formação e contato. Mantenha os caminhos relativos dos arquivos css/style.css, assets/favicon.svg e do PDF para que funcionem no GitHub Pages.
+Edite as seções correspondentes em index.html para atualizar projetos, conhecimentos, experiência, formação e contato. Mantenha os caminhos relativos dos arquivos `css/style.css`, `assets/favicon.svg` e do PDF para que funcionem no GitHub Pages.
