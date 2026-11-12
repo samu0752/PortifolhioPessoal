@@ -22,6 +22,4 @@ Como o site é estático, basta abrir index.html no navegador. Também é possí
 
 O repositório está configurado para publicação pelo GitHub Pages a partir da branch `main`, na raiz. Após enviar alterações para essa branch, o Pages publica a versão atualizada automaticamente.
 
-## Atualizar o portfólio
 
-Edite as seções correspondentes em index.html para atualizar projetos, conhecimentos, experiência, formação e contato. Mantenha os caminhos relativos dos arquivos `css/style.css`, `assets/favicon.svg` e do PDF para que funcionem no GitHub Pages.
